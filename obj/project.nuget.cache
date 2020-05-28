@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "AkSjdmZjd2F0tjrTvjSAKtUieFWw8PxLCcgIrP6+gVnmlX+W4NlcNsnhb4kD+3DTStjkAuTmk254rA66bT3tag==",
+  "success": true,
+  "projectFilePath": "/home/ismail/Desktop/Demolar/netCore/KafkaExample/KafkaConsumer/KafkaConsumer.csproj",
+  "expectedPackageFiles": [
+    "/home/ismail/.nuget/packages/confluent.kafka/1.0.0-beta3/confluent.kafka.1.0.0-beta3.nupkg.sha512",
+    "/home/ismail/.nuget/packages/librdkafka.redist/1.0.0-rc7/librdkafka.redist.1.0.0-rc7.nupkg.sha512",
+    "/home/ismail/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512",
+    "/home/ismail/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.0/system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "/home/ismail/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
